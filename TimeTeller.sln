@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyCodeRetreatDotNetCore21.04", "LegacyCodeRetreatDotNetCore21.04\LegacyCodeRetreatDotNetCore21.04.csproj", "{72CA8B2B-2F0A-404A-BB16-78BCD6179D18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTeller", "TimeTeller\TimeTeller.csproj", "{72CA8B2B-2F0A-404A-BB16-78BCD6179D18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{038574DD-25D5-4A49-BF78-FEDE53520BC4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
